@@ -1,4 +1,5 @@
-import React, { Children } from "react";
+import React from "react";
+
 interface ModalProps {
   openModal: boolean;
   setOpenModal: (open: boolean) => void;
