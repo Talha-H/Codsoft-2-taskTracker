@@ -1,20 +1,8 @@
 {
   "tasks": [
     {
-      "id": "2",
-      "text": "nextJs FullStack Developer"
-    },
-    {
-      "id": "0232a787-cbae-4c56-90d3-2f9175663984",
-      "text": "learn Coding"
-    },
-    {
-      "id": "3196d156-d3c2-464e-abcc-d13d38881d64",
-      "text": "task tracker app"
-    },
-    {
-      "id": "cc96290d-94ec-4505-873b-adbcf1738f25",
-      "text": "One day I complete my dream inshallah"
+      "id": "67e6f47f-0ef7-4468-a050-32b54730a03f",
+      "text": "hello world"
     }
   ]
 }
